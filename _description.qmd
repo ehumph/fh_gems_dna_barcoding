@@ -1,0 +1,9 @@
+<!--
+Describe the module.
+-->
+
+# **Description**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas rhoncus turpis ac tellus iaculis laoreet. Fusce nec augue lobortis, luctus felis a, viverra odio. Proin sollicitudin sodales urna, a elementum velit cursus at. Nunc dapibus, lacus sed fringilla laoreet, dolor nibh facilisis eros, eu placerat sapien dui at enim.
+
+[Student Activity](https://genomicseducation.org){.nav-button} [Instructor Materials](instructor_materials.qmd){.nav-button} [Adapt this Activity!](adapt_materials.qmd){.nav-button}

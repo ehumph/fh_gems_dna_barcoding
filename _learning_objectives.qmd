@@ -1,0 +1,11 @@
+<!-- Make sure to mention from where the learning objectives were derived. Check out the GSA learning framework, both at https://genetics-gsa.org/education/genetics-learning-framework/ and in the resources folder in this repository. -->
+
+# **Learning Objectives**
+
+1. Praesent eleifend rhoncus nulla. 
+
+2. Duis aliquam, urna eu scelerisque tincidunt.
+
+3. Nisi turpis tincidunt nunc, quis volutpat elit urna a massa. 
+
+4. Phasellus facilisis erat non risus ullamcorper.

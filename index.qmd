@@ -1,0 +1,16 @@
+---
+title: "**Instructor Guide: {MODULE NAME}**"
+---
+
+{{< include _description.qmd >}}
+
+{{< include _timing.qmd >}}
+
+{{< include _reqd_materials.qmd >}}
+
+{{< include _learning_objectives.qmd >}}
+
+{{< include _evaluation.qmd >}}
+
+
+

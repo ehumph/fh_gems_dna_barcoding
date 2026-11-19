@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "{MODULE NAME}"
+  navbar:
+    left:
+    - text: Student Activity
+      href: index.qmd
+    - text: All Modules
+      href: https://genomicseducation.org/modules.html
+  google-analytics: "XXX"
+
+format:
+  html:
+    css: assets/styles.css
+    include-in-header:
+      - file: assets/header.html
+    toc: true
+    link-external-newwindow: true

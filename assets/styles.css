@@ -1,0 +1,79 @@
+
+/* To add some space below the navigation bar */
+
+body {
+  margin-top: 100px;
+}
+
+/* Color palette - https://paletton.com/ */
+
+:root {
+  --color-light: #FBFDFF;
+  --color-blue1: #CFE7F9;
+  --color-blue2: #A0CBEA; /* logo color */
+  --color-blue3: #75ACD4;
+  --color-blue4: #4D8AB5;
+  --color-lilac1: #D3D4FA;
+  --color-lilac2: #A9ABED; 
+  --color-lilac3: #8183DB;
+  --color-lilac4: #5C5FC0;
+  --color-mint1: #CDF9E5;
+  --color-mint2: #9DEDC9; 
+  --color-mint3: #71DAAA;
+  --color-mint4: #4BBF8A;
+}
+
+/* buttons */
+
+.nav-button {
+  display: inline-block;
+  padding: 0.75rem 1.1rem;
+  border-radius: 999px;
+  background: var(--color-lilac4);
+  color: white !important;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+  margin: 4px 5px;
+}
+
+.nav-button:hover {
+  background: var(--color-lilac3);
+}
+
+.content-button {
+  display: inline-block;
+  padding: 0.75rem 1.1rem;
+  border-radius: 999px;
+  background: var(--color-mint4);
+  color: white !important;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.content-button:hover {
+  background: var(--color-mint3);
+}
+
+/* links */
+/* Active & hovered TOC links */
+.sidebar nav[role="doc-toc"] ul > li > a.active,
+.sidebar nav[role="doc-toc"] ul > li > a:hover {
+  color: var(--color-blue4) !important;
+  border-left-color: var(--color-blue4) !important;
+}
+/* Regular links */
+a {
+  color: var(--color-blue4);
+}
+
+/* Navbar background */
+.navbar {
+  background-color: var(--color-blue4) !important;
+}
+
+body {
+  background-image: url('https://raw.githubusercontent.com/datascicollab/datascicollab.github.io/b539d96ef04b3646684a2c85b01763a84660c8df/resources/images/small_hc_gradient.png');
+  background-blend-mode: lighten;
+}

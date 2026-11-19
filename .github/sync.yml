@@ -1,0 +1,17 @@
+# Candace Savonen Aug 2021
+# For info on how to update this file see: https://github.com/marketplace/actions/repo-file-sync-action#%EF%B8%8F-sync-configuration
+
+group:
+  - files:
+      - source: .github/workflows/
+        dest: .github/workflows/
+        deleteOrphaned: true
+        exclude: |
+          send-updates.yml
+          test-send-updates.yml
+          starting-course.yml
+      - source: config_automation.yml
+        dest: config_automation.yml
+  # Repositories to receive changes
+    repos: |
+      FredHutchGEMs/test-sync

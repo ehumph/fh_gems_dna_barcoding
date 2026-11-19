@@ -1,0 +1,11 @@
+<!--
+Describe how long you expect the activity to take. Any details about modality are also helpful.
+-->
+
+# **Timing, Modality, Prerequisites**
+
+**Timing:** Pellentesque eleifend ac dui id vestibulum. Proin scelerisque semper nulla, eget ornare nulla interdum eget.
+
+**Modality:** Ut lobortis porta ullamcorper.
+
+**Prerequisites:** Nulla dui ex, scelerisque et sem eu, maximus viverra neque.
